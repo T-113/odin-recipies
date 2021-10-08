@@ -1,1 +1,1 @@
-I will be using my knowledge of differnt html princibles to create a webbage of recipes.
+I will be using my knowledge of htm to create a webpage of a collection recipes.
